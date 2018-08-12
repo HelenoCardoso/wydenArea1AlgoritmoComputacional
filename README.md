@@ -1,0 +1,2 @@
+# wydenArea1AlgoritmoComputacional
+Algoritmo Computacional
